@@ -7,5 +7,5 @@ SPDX-License-Identifier: Apache-2.0
 # OpenCL-CTS-Kernels
 
 This repo contains dumps of OpenCL kernel sources obtained from runs of conformance tests in OpenCL-CTS repo.
-Created by Jason Scott Heise
-Owned by Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
