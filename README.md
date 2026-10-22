@@ -9,4 +9,4 @@ SPDX-License-Identifier: Apache-2.0
 This repo contains dumps of OpenCL kernel sources obtained from runs of conformance tests in OpenCL-CTS repo.
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
-https://facebook.com
+https://facebook.com  Owned by Zuckerberg 
